@@ -1,1 +1,1 @@
-# workshop-generative-art
+# jc-workshop-generative-art
